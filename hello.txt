@@ -2,5 +2,7 @@ Hi
 This is first file 
 I am very exciting t learn GIT.
 This is form local repo.
-for rebase
-
+<<<<<<< HEAD
+======
+adding from the remote repo.
+>>>>>>> 372fb8af376c2a45df6981ea63100e3c36c3473b
