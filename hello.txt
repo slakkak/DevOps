@@ -2,4 +2,4 @@ Hi
 This is first file 
 I am very exciting t learn GIT.
 This is form local repo.
-
+adding from the remote repo.
